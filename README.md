@@ -30,11 +30,8 @@ Developer · GHRCE Nagpur
 
 ### 🔥 LeetCode Progress
 
-<div align="center">
-<img src="https://leetcard.jacoblin.cool/anjali_singh8520?theme=nord&ext=heatmap" style="max-width:100%;" />
-</div>
+<div align="center"> <img src="https://leetcard.jacoblin.cool/anjali_singh8520?theme=dark&ext=heatmap" style="max-width:100%;" /> </div> <br/>
 
-<br/>
 
 ### 📈 GitHub Activity
 
