@@ -16,7 +16,7 @@
 <tr>
 <td width="30%" valign="top">
 
-<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/9219e29b-1dc1-40e0-b4ad-69473cf7b1d5" 
+<img width="460" height="460" alt="image" src="https://avatars.githubusercontent.com/u/224540211?s=400&u=aa3ae499e48b2dad3fef4dd970160d19f92b5a59&v=4" 
  width="100%" style="border-radius: 12px;" />
 
 ### [Anjali Singh]
