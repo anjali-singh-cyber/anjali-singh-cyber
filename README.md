@@ -1,41 +1,21 @@
-<!--
-  GITHUB PROFILE README STARTER
-  Repo name must EXACTLY match your GitHub username (e.g. github.com/anjali/anjali)
-  Replace every [BRACKETED] value below with your own info.
--->
-
 <div align="center">
 
-# Hi there, I'm Anjali Singh 👋
+# Hi, I'm Anjali Singh 👋
+Developer · GHRCE Nagpur
 
-![Profile Views](https://komarev.com/ghpvc/?username=anjali-singh-cyber&color=1f6feb&style=flat-square)
+![Followers](https://img.shields.io/github/followers/anjali-singh-cyber?label=followers&style=flat-square&color=1f6feb)
+![Profile Views](https://komarev.com/ghpvc/?username=anjali-singh-cyber&color=1f6feb&style=flat-square&label=views)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anjali_singh8520)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-singh-04b873370)
 
 </div>
 
-<table>
-<tr>
-<td width="30%" valign="top">
+<br/>
 
-<img width="460" height="460" alt="image" src="https://avatars.githubusercontent.com/u/224540211?s=400&u=aa3ae499e48b2dad3fef4dd970160d19f92b5a59&v=4" 
- width="100%" style="border-radius: 12px;" />
+**📌 Currently building:** [ConquerDSA](https://github.com/ConquerDSA/ConquerDSA) — a personal DSA intelligence system unifying LeetCode + GitHub activity into one automated pipeline.
 
-### [Anjali Singh]
-📍 [Developer] | [GHRCE Nagpur]
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anjali_singh8520/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-singh-04b873370)
-
-
----
-
-**⚡ Fun fact:** [I am a vibe but not a vibe coder]
-
-**📌 Currently building:** [ConquerDSA — a DSA intelligence system unifying LeetCode + GitHub activity]
-
-**🌱 Learning:** [DSA]
-
-</td>
-<td width="70%" valign="top">
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -46,17 +26,23 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 🔥 LeetCode Heatmap
-<a href="https://leetcode.com/anjali_singh8520"> <img src="https://leetcard.jacoblin.cool/anjali_singh8520?ext=heatmap&theme=dark" width="100%" /> </a>
+<br/>
 
-### 🔥 Streak Stats
+### 🔥 LeetCode Progress
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-singh-cyber&theme=dark&hide_border=true" width="100%" />
+<div align="center">
+<img src="https://leetcard.jacoblin.cool/anjali_singh8520?theme=nord&ext=heatmap" style="max-width:100%;" />
+</div>
 
-### 📈 Activity Graph
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-singh-cyber&theme=react-dark&hide_border=true" width="100%" />
+### 📈 GitHub Activity
 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-singh-cyber&theme=tokyo-night&hide_border=true&area=true" style="max-width:100%;" />
+</div>
+
+<br/>
 
 
 ### 🚀 Featured Projects
@@ -64,14 +50,12 @@
 | Project | Description | Tech |
 |---|---|---|
 | [ConquerDSA](https://github.com/ConquerDSA/ConquerDSA) | Personal DSA intelligence pipeline — LeetCode + GitHub sync, analytics, AI coaching | Python, GitHub API |
+| [NextStep](https://github.com/anjali-singh-cyber/nextstep) | Slack app surfacing job listings via slash commands | Python, Flask, Slack Bolt, OpenAI |
 
-
-</td>
-</tr>
-</table>
+<br/>
 
 <div align="center">
 
-### 💬 Let's connect — [Contact Me](mailto:singh.anjali.8625@gmail.com)
+💬 [Contact Me](mailto:singh.anjali.8625gmail.com)
 
 </div>
