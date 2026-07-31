@@ -47,7 +47,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 ###🔥 LeetCode Heatmap
-<a href="https://leetcode.com/anjali_singh8520"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap&theme=dark" width="100%" /> </a>
+<a href="https://leetcode.com/anjali_singh8520"> <img src="https://leetcard.jacoblin.cool/anjali_singh8520?ext=heatmap&theme=dark" width="100%" /> </a>
 
 ### 🔥 Streak Stats
 
