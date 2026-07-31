@@ -8,7 +8,7 @@
 
 # Hi there, I'm Anjali Singh 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=1f6feb&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=anjali-singh-cyber&color=1f6feb&style=flat-square)
 
 </div>
 
@@ -16,7 +16,8 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="https://github.com/account" width="100%" style="border-radius: 12px;" />
+<img width="460" height="460" alt="image" src="https://github.com/user-attachments/assets/9219e29b-1dc1-40e0-b4ad-69473cf7b1d5" 
+ width="100%" style="border-radius: 12px;" />
 
 ### [Anjali Singh]
 📍 [Developer] | [GHRCE Nagpur]
@@ -52,11 +53,11 @@
 
 ### 🔥 Streak Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=dark&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-singh-cyber&theme=dark&hide_border=true" width="100%" />
 
 ### 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-singh-cyber&theme=react-dark&hide_border=true" width="100%" />
 
 
 
