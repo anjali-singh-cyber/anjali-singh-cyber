@@ -23,7 +23,6 @@ Developer · GHRCE Nagpur
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 <br/>
-
 ### 🔥 LeetCode Progress
 
 <div align="left"> <img src="https://leetcard.jacoblin.cool/anjali_singh8520?theme=dark&ext=heatmap" style="width:80%;" /> </div> <br/>
