@@ -2,8 +2,10 @@
 
 # Hi, I'm Anjali Singh 👋
 Developer · GHRCE Nagpur
+
 ![Followers](https://img.shields.io/github/followers/anjali-singh-cyber?label=followers&style=flat-square&color=1f6feb)
 ![Profile Views](https://komarev.com/ghpvc/?username=anjali-singh-cyber&color=1f6feb&style=flat-square&label=views)
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/anjali_singh8520)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-singh-04b873370)
 
@@ -21,7 +23,6 @@ Developer · GHRCE Nagpur
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 <br/>
-
 ### 🔥 LeetCode Progress
 
 <div align="center"> <img src="https://leetcard.jacoblin.cool/anjali_singh8520?theme=dark&ext=heatmap" style="width:80%;" /> </div> <br/>
