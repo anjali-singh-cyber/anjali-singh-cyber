@@ -16,15 +16,14 @@
 <tr>
 <td width="30%" valign="top">
 
-<img src="YOUR_PHOTO_URL" width="100%" style="border-radius: 12px;" />
+<img src="https://github.com/account" width="100%" style="border-radius: 12px;" />
 
-### [YOUR NAME]
-📍 [Your Role] | [Your Org/University]
+### [Anjali Singh]
+📍 [Developer] | [GHRCE Nagpur]
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_URL)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](YOUR_TWITTER_URL)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/anjali_singh8520/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/anjali-singh-04b873370)
+
 
 ---
 
@@ -48,8 +47,8 @@
 
 ### 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=anjali-singh-cyber&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-singh-cyber&layout=compact&theme=dark&hide_border=true" width="49%" />
 
 ### 🔥 Streak Stats
 
