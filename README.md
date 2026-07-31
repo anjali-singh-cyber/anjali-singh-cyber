@@ -46,10 +46,8 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-### 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=anjali-singh-cyber&show_icons=true&theme=dark&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-singh-cyber&layout=compact&theme=dark&hide_border=true" width="49%" />
+###🔥 LeetCode Heatmap
+<a href="https://leetcode.com/anjali_singh8520"> <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?ext=heatmap&theme=dark" width="100%" /> </a>
 
 ### 🔥 Streak Stats
 
